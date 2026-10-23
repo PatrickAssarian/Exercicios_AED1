@@ -1,7 +1,4 @@
 /*
-UNIVERSIDADE FEDERAL DE PELOTAS
-Exercício 1 - Noções de Complexidade de Algoritmos
-
 a)
 int soma = 0;
 for (int i=0; i<n; i++) {

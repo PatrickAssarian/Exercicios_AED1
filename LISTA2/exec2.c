@@ -1,6 +1,4 @@
 /*
-UNIVERSIDADE FEDERAL DE PELOTAS
-Exercício 2 - Problema das Duas Somas
 
 a) Qual é a complexidade de tempo de cada versão?
 - dois_soma_1: O(n^2), pois possui dois laços de repetição aninhados que dependem do tamanho n.
